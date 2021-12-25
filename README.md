@@ -99,7 +99,7 @@ $ npm install
 # Para iniciar o projeto
 $ npm run start
 
-# O servidor inciará na porta:3000 - acesse <http://localhost:3000>
+# O servidor iniciará na porta:3000 - acesse <http://localhost:3000>
 ```
   <p></p><br/>
  
