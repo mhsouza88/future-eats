@@ -9,7 +9,7 @@
  
  
  <h2> ⚛️ﾠSobre</h2>
- <p>Projeto final do módulo front-end feito em grupo durante o bootcamp fullstack web da <a href="https://www.labenu.com.br/" target="_blank">Labenu</a>. O FutureEats é uma aplicação web baseada no Uber Eats, um aplicativo de celular onde o usuário pode escolher um restaurante disponível em sua localização e realizar um pedido. O design desse projeto foi feito com base na visualização em dispositivos móveis, não possuindo um layout para versão desktop. O layout foi feito pela designer Camila Mizutani e para o backend foi utilizada uma API da própria escola.
+ <p>Projeto final do módulo front-end feito em grupo durante o bootcamp fullstack web da <a href="https://www.labenu.com.br/" target="_blank">Labenu</a>. O FutureEats é uma aplicação web baseada no Uber Eats, um aplicativo de celular onde o usuário pode escolher um restaurante disponível em sua localização e realizar um pedido. O design desse projeto foi feito com base na visualização em dispositivos móveis, não possuindo um layout para versão desktop. O layout foi feito pela designer Camila Mizutani e utilizamos uma API da própria escola para o sistema de cadastro, exibição de restaurantes e demais serviços.
 </p><br/>
  
  
